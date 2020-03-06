@@ -1,3 +1,4 @@
+#Copyright (c) 2020 Derek Frombach
 #IF GIVING ERROR, THEN RUN AGAIN UNTIL NO ERROR (MAX 2 MORE TIMES)
 
 from adafruit_rplidar import RPLidar
